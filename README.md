@@ -27,7 +27,7 @@ pip3 install -r requirements.txt
 For scraping:
 
 ```bash
-python3 proxyScraper.py -p http
+python3 proxyScraper.py -p (HTTP) (HTTPS) (Socks4) (Socks5)
 ```
 * With `-p` or `--proxy`, You can choose your proxy type. Supported proxy types are: **HTTP - HTTPS - Socks (Both 4 and 5) - Socks4 - Socks5** 
 * With `-o` or `--output`, create and write to a .txt file. (Default is **output.txt**)
