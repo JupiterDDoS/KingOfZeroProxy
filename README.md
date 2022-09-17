@@ -1,7 +1,5 @@
 # Proxy scraper and checker 
 
-[![Tests](https://github.com/JupiterDDoS/KingOfZeroProxy)](https://github.com/JupiterDDoS/KingOfZeroProxy/tests.yml)
-
 Scrape more than 1K HTTP proxies in less than 2 seconds.
 
 Scraping fresh public proxies from different sources:
